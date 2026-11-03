@@ -123,7 +123,7 @@ Nghiên cứu ứng dụng mô hình ngôn ngữ lớn vào bài toán phân tí
 ## Connect with Me
 
 - **GitHub:** [TPhongKDL](https://github.com/TPhongKDL)
-- **LinkedIn:** [[Add your LinkedIn profile]](https://www.linkedin.com/in/phong-duong-891953352/)
+- **LinkedIn:** (https://www.linkedin.com/in/phong-duong-891953352/)
 - **Email:** phongduong948@gmail.com
 
 ---
